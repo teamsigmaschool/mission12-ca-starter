@@ -11,14 +11,12 @@ export const experience = [
     company: "Company or Project Name",
     role: "Your Role",
     start: "Jan 2025",
-    end: "Present",
     description: "One sentence about what you did there.",
   },
   {
     company: "Another Company or Project",
     role: "Your Role",
     start: "Jun 2024",
-    end: "Dec 2024",
     description: "One sentence about what you did there.",
   },
 ];
