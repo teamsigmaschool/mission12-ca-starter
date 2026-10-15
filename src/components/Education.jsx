@@ -1,0 +1,8 @@
+export default function Education() {
+  return (
+    <section>
+      <h2>Education</h2>
+      <p className="todo">Paste the Education code block into this file.</p>
+    </section>
+  );
+}
